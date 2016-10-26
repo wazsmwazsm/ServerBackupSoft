@@ -2,6 +2,11 @@
 ServerBackupSoft
 
 # gui_version
+
+created by bash shell and C
+
+gcc -o pk_rv pk_rv.c -lnewt  # create bin file to your system
+
 you should install libnewt-dev
 
 conf/ contains config file
