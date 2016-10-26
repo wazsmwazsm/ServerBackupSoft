@@ -1,0 +1,17 @@
+# mysql use "mysqldata"
+
+/home
+#/boot
+
+# etc contains mysql configure file
+
+# /etc
+/etc/my.cnf
+/etc/vsftpd.conf
+/etc/rc.local
+/etc/network/interfaces
+/root
+/usr/local/http2/conf
+/usr/local/php/lib/php.ini
+/var/www/
+mysqldata
